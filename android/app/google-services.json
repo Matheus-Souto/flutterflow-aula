@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "445825456683",
+    "project_id": "appcurso-f2154",
+    "storage_bucket": "appcurso-f2154.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445825456683:android:46631350bcaaf938e5a86e",
+        "android_client_info": {
+          "package_name": "com.mycompany.aula"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "445825456683-pm8ke6ban8m6fo1lnsuj16n4cutt791g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDj2StVZm-AdvXPaNEn4WsHAG-_4BZbSYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "445825456683-pm8ke6ban8m6fo1lnsuj16n4cutt791g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "445825456683-c49tjgo0mfa4dqehhvv8mumvebauecl3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.healthai"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
